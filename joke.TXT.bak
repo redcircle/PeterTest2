@@ -2,7 +2,11 @@ it's a joke
 add 2nd joke
 hahaha
 gdfge
-newbrach1 add
+<<<<<<< HEAD:joke.TXT
+gfdgadgadgadsdf
 dsa
+=======
+add New brachn1
+>>>>>>> Newbranch1:joke.TXT
 
 vcxzv
