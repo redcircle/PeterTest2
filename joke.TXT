@@ -2,9 +2,7 @@ it's a joke
 add 2nd joke
 hahaha
 gdfge
-<<<<<<< HEAD:joke.TXT
-ok
-=======
->>>>>>> Newbranch1:joke.TXT
-
 vcxzv
+
+
+change
